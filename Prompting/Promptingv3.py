@@ -1,5 +1,6 @@
 from sys import argv
 
+# make sure to put two variables after on terminal.
 script, user1, user2 = argv
 prompt = '> '
 print(f"""Hi {user1} and {user2}.!
