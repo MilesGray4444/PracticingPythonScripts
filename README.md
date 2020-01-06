@@ -2,6 +2,8 @@
 
 Running scripts on Mac OS Terminal.
 
-These are all python scripts version1, 2 are simple and version 3 assigns '> ' to a user prompt.
+These are all python scripts version1, 2 are simple.
+Version 3 assigns '> ' to a user prompt and I tweaked it around a bit
 
-Setting parameters and unpacking variables. this is just painful way of doing it . Don't worry.
+Setting parameters and unpacking variables. this is just painful way to do it.
+Don't worry.
